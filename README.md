@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# timer-app
-=======
 # vue-timer-app
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -34,4 +31,3 @@ yarn dev
 ```sh
 yarn build
 ```
->>>>>>> d777f5d... init
